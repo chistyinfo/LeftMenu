@@ -5,6 +5,7 @@
     <string name="cd_main_image">main image</string>
 
     <string name="material_icon_account_multiple">&#xe8dc;</string>
+    <string name="material_icon_account">&#xe800;</string>
     <string name="material_icon_message">&#xea12;</string>
     <string name="material_icon_image_box">&#xe952;</string>
     <string name="material_icon_video">&#xeb39;</string>

@@ -6,5 +6,12 @@
 
     <color name="main_color_500">@color/material_purple_500</color>
     <color name="main_color_grey_100">@color/material_grey_100</color>
+    <color name="main_color_grey_300">@color/material_grey_300</color>
+    <color name="main_color_grey_700">@color/material_grey_700</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_15_percent">#26ffffff</color>
+    <color name="white_30_percent">#4Dffffff</color>
+
 
 </resources>
