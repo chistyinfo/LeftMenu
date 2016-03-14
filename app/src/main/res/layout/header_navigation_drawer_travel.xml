@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res/com.csform.android.uiapptemplate"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content" >
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <ImageView
         android:id="@+id/header_navigation_drawer_travel_image"
@@ -19,14 +19,14 @@
         android:layout_centerInParent="true"
         android:gravity="center_vertical" >
 
-        <com.csform.android.uiapptemplate.font.MaterialDesignIconsTextView
+        <greendust.leftmenu.font.MaterialDesignIconsTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/material_icon_bike"
             android:textColor="@android:color/white"
             android:textSize="72dp" />
 
-        <com.csform.android.uiapptemplate.font.RobotoTextView
+        <greendust.leftmenu.font.RobotoTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"

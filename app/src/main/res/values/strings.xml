@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">LeftMenu</string>
+    <string name="new_york">New York</string>
 
     <string name="cd_main_image">main image</string>
 
@@ -7,4 +8,5 @@
     <string name="material_icon_message">&#xea12;</string>
     <string name="material_icon_image_box">&#xe952;</string>
     <string name="material_icon_video">&#xeb39;</string>
+    <string name="material_icon_bike">&#xe915;</string>
 </resources>
