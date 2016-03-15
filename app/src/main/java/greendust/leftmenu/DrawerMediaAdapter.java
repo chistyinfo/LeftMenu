@@ -7,10 +7,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.csform.android.uiapptemplate.model.DummyModel;
-import com.csform.android.uiapptemplate.util.DummyContent;
-
 import java.util.List;
+
 
 public class DrawerMediaAdapter extends BaseAdapter {
 	

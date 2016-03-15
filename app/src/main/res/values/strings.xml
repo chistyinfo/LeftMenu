@@ -10,4 +10,9 @@
     <string name="material_icon_image_box">&#xe952;</string>
     <string name="material_icon_video">&#xeb39;</string>
     <string name="material_icon_bike">&#xe915;</string>
+    <string name="material_icon_headphones">&#xe9b1;</string>
+    <string name="material_icon_human">&#xe9c5;</string>
+    <string name="material_icon_headline">&#xeb40;</string>
+    <string name="material_icon_soundcloud">&#xead3;</string>
+    <string name="material_icon_statistics">&#xea87;</string>
 </resources>

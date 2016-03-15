@@ -5,6 +5,8 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="main_color_500">@color/material_purple_500</color>
+    <color name="main_color_grey_500">@color/material_grey_500</color>
+    <color name="main_color_grey_600">@color/material_grey_600</color>
     <color name="main_color_grey_100">@color/material_grey_100</color>
     <color name="main_color_grey_300">@color/material_grey_300</color>
     <color name="main_color_grey_700">@color/material_grey_700</color>
